@@ -1,0 +1,14 @@
+{
+  "landingPage": [
+    {
+      "page_header": "Angualr Blob Storaeg properties Test Header",
+      "page_section1": "Section1data",
+      "page_section2": "Section Data 2"
+    },
+    {
+      "page_header": "Angular Page Header 2 for testing",
+      "page_section1": "Test section 2222 ",
+      "page_section2": "Test Section 2233333"
+    }
+  ]
+}
